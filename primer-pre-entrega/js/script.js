@@ -104,3 +104,6 @@ while (seleccion != "NO") {
     break;
     }
 }
+
+const total = carrito.reduce((acc, el) => acc + el.precio * el.unidades, 0)
+console.log (`Total a pagar es: ${total}`);
