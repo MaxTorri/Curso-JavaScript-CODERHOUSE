@@ -40,6 +40,14 @@ const PRODUCTOS = [
     { nombre: "F22", precio: 350},
     { nombre: "A4", precio: 110},
 ];
+
+/* Como hacer un JSON legible para usuario (stringify) o para trabajar con codigo (parse) */
+/* const productosJsonLegible = JSON.stringify(PRODUCTOS);
+
+const productosJsonArray = JSON.parse(productosJsonLegible);
+
+console.log(productosJsonLegible); */
+
 let carrito = []
 
 let seleccion = prompt ("Hola, desea comprar algun producto. SI O NO")
@@ -107,3 +115,15 @@ while (seleccion != "NO") {
 
 const total = carrito.reduce((acc, el) => acc + el.precio * el.unidades, 0)
 console.log (`Total a pagar es: ${total}`);
+
+console.log ("Hola");
+
+
+
+
+function saludar(){
+    alert("hola");
+    return 3:
+}
+
+document.write(saludar)

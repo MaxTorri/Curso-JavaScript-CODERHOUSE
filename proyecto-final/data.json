@@ -1,0 +1,64 @@
+{
+    "bicicletas":[
+        {
+            "nombre": "Rockrider",
+            "modelo": "Bicicleta de montaña",
+            "img": "./assets/11266891-bicicleta-de-montaña-en-bicicleta-sobre-fondo-blanco.webp",
+            "precio": 5
+        },
+        {
+            "nombre": "Specialized",
+            "modelo": "Bicicleta de carretera",
+            "img": "./assets/11266891-bicicleta-de-montaña-en-bicicleta-sobre-fondo-blanco.webp",
+            "precio": 7
+        },
+        {
+            "nombre": "Trek",
+            "modelo": "Bicicleta de paseo",
+            "img": "./assets/11266891-bicicleta-de-montaña-en-bicicleta-sobre-fondo-blanco.webp",
+            "precio": 3
+        },
+        {
+            "nombre": "Giant",
+            "modelo": "Bicicleta de montaña",
+            "img": "./assets/16855910-bicicleta-de-montaña-en-el-fondo-blanco.webp",
+            "precio": 5
+        },
+        {
+            "nombre": "Cannondale",
+            "modelo": "Bicicleta de carretera",
+            "img": "./assets/16855910-bicicleta-de-montaña-en-el-fondo-blanco.webp",
+            "precio": 7
+        },
+        {
+            "nombre": "Scott",
+            "modelo": "Bicicleta de paseo",
+            "img": "./assets/16855910-bicicleta-de-montaña-en-el-fondo-blanco.webp",
+            "precio": 3
+        },
+        {
+            "nombre": "Cube",
+            "modelo": "Bicicleta de montaña",
+            "img": "./assets/blue-mountain-bike-isolated-over-white-background-photo.jpg",
+            "precio": 5
+        },
+        {
+            "nombre": "Bianchi",
+            "modelo": "Bicicleta de carretera",
+            "img": "./assets/blue-mountain-bike-isolated-over-white-background-photo.jpg",
+            "precio": 7
+        },
+        {
+            "nombre": "Merida",
+            "modelo": "Bicicleta de paseo",
+            "img": "./assets/blue-mountain-bike-isolated-over-white-background-photo.jpg",
+            "precio": 3
+        },
+        {
+            "nombre": "Kona",
+            "modelo": "Bicicleta de montaña",
+            "img": "./assets/blue-mountain-bike-isolated-over-white-background-photo.jpg",
+            "precio": 5
+        }
+    ]
+}
